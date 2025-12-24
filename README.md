@@ -13,9 +13,7 @@
 
 <div align="center">
   <!-- 您可以在这里上传截图后替换链接 -->
-  <img src="https://via.placeholder.com/350x600?text=File+Tree+Demo" width="32%" />
-  <img src="https://via.placeholder.com/350x600?text=Action+Menu" width="32%" />
-  <img src="https://via.placeholder.com/350x600?text=Loading+State" width="32%" />
+  <img src="https://github.com/user-attachments/assets/1f26c27c-5389-48dc-8e13-d6c079b59eed" width="32%" />
 </div>
 
 ## 项目结构 Project Structure
